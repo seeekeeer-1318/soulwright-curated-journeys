@@ -1,0 +1,20 @@
+{
+  "build_command": "pnpm run build",
+  "capabilities": [
+    "server",
+    "db",
+    "user"
+  ],
+  "dev_command": "pnpm run dev",
+  "env_vars": {},
+  "experiments": null,
+  "git_remote": {
+    "repo_url": "s3://vida-prod-gitrepo/webdev-git/119191694/GgEW2CaJpnbxkD7JjorPoN",
+    "expiration": "2026-05-14T18:38:11.000Z"
+  },
+  "name": "soulwright-journeys",
+  "path": "/home/ubuntu/soulwright-journeys",
+  "port": 3000,
+  "template_id": "web-db-user",
+  "test_command": "pnpm test"
+}
